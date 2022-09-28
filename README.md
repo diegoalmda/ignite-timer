@@ -55,4 +55,4 @@ O projeto Timer foi idealizado para seguir a técnica de gerenciamento de tempo 
   $ npm run dev 
 ```
 
-Feito por Diego Almeida :wave: #TrilhaIgnite #Rocketseat
+Feito por Diego Almeida :wave: #TrilhaIgnite #Rocketseat 🚀
