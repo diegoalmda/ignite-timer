@@ -48,6 +48,9 @@ O projeto Timer foi idealizado para seguir a técnica de gerenciamento de tempo 
 
 ## 💻 Executando
 
+O projeto foi criado utilizando o ambiente de desenvolvimento `vite`
+Para maiores informações consultar [documentação](https://vitejs.dev/guide/)
+
 ```sh
   # Instalando as dependências do projeto.
   $ npm install 
