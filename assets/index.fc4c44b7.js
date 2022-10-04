@@ -327,7 +327,7 @@ Error generating stack: `+o.message+`
       }
     }
   }
-`,D2="/ignite-timer/assets/logo.45e013d3.svg";function j2(){return ie(R2,{children:[k("img",{src:D2,alt:"Logotipo"}),ie("nav",{children:[k(Af,{to:"/",title:"Timer",children:k(b1,{size:24})}),k(Af,{to:"/history",title:"Hist\xF3rico",children:k(V1,{size:24})})]})]})}const I2=st.div`
+`,D2="/assets/logo.45e013d3.svg";function j2(){return ie(R2,{children:[k("img",{src:D2,alt:"Logotipo"}),ie("nav",{children:[k(Af,{to:"/",title:"Timer",children:k(b1,{size:24})}),k(Af,{to:"/history",title:"Hist\xF3rico",children:k(V1,{size:24})})]})]})}const I2=st.div`
   max-width: 74rem;
   height: calc(100vh - 10rem);
   margin: 5rem auto;
